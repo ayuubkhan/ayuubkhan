@@ -1,5 +1,3 @@
-###
-
 <h1 align="center" style="font-size: 2.5em;">Hi 👋, I'm Ayub</h1>
 
 ###
