@@ -8,7 +8,7 @@
 
 ###
 
-<h4 align="center" style="font-size: 1.5em;">Driven final-year student with hands-on experience in frontend development and Java, now focused on mastering backend technologies, particularly Spring Boot and SQL database management.</h4>
+<p align="center" style="font-size: 1.5em;">Driven final-year student with hands-on experience in frontend development and Java, now focused on mastering backend technologies, particularly Spring Boot and SQL database management.</p>
 
 ###
 
@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left" style="font-size: 1.2em;">✨ Creating bugs since 2002<br>📚 I'm currently learning backend development<br>🎲 Fun fact: The first computer bug was an actual bug!</p>
+<p align="left" style="font-size: 1.5em;">✨ Creating bugs since 2002<br>📚 I'm currently learning backend development<br>🎲 Fun fact: The first computer bug was an actual bug!</p>
 
 ###
 
