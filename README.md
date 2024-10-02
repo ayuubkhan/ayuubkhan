@@ -8,7 +8,7 @@
 
 ###
 
-<p align="center" style="font-size: 2.5em;">Driven final-year student with hands-on experience in frontend development and Java, now focused on mastering backend technologies, particularly Spring Boot and SQL database management.</p>
+<h3 align="center" style="font-size: 1em;">Final-year student with hands-on experience in frontend development and Java, now focused on mastering backend technologies, particularly Spring Boot and SQL database management.</h3>
 
 ###
 
