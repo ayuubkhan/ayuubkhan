@@ -1,22 +1,10 @@
-<div align="center">
-    <img src="https://miro.medium.com/v2/resize:fit:1400/1*zvFprbmLtnZijvaNtJ90oQ.png" align="center" style="width: 100%" />
-</div>
-
 ###
 
 <h1 align="center" style="font-size: 2.5em;">Hi 👋, I'm Ayub</h1>
 
 ###
 
-<h3 align="center" style="font-size: 1em;">Final-year student with hands-on experience in frontend development and Java, now focused on mastering backend technologies, particularly Spring Boot and SQL database management.</h3>
-
-###
-
-<h2 align="left" style="font-size: 2em;">About me</h2>
-
-###
-
-<p align="left" style="font-size: 1.5em;">✨ Creating bugs since 2002<br>📚 I'm currently learning backend development<br>🎲 Fun fact: The first computer bug was an actual bug!</p>
+<h3 align="center" style="font-size: 1em; font-weight: 100;">Developing and designing frontend applications while currently exploring backend development</h3>
 
 ###
 
