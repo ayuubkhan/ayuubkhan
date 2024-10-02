@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center" style="font-size: 1em; font-weight: 100;">Developing and designing frontend applications while currently exploring backend development</h3>
+<p align="center" style="font-size: 1.2em; font-weight: 100;">Developing and designing frontend applications while currently exploring backend development</p>
 
 ###
 
